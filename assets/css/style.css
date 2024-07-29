@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box; /* bài 47 */
+}
+html {
+  font-size: 62.5%;
+}
+/* khôi pục lại chữ mặt định theo cỡ rem */
+body {
+  font-size: 1.6rem; /* bài 56 */
+}
